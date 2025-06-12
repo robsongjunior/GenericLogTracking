@@ -58,3 +58,6 @@ A estrutura de diretórios após a execução do monitoramento será:
 ## 🤝 Contribuição
 Se você quiser contribuir para o projeto, sinta-se à vontade para abrir pull requests com melhorias ou sugestões. Toda contribuição é bem-vinda!
 
+Att
+Robson Gomes Junior
+Analista de Sistemas
